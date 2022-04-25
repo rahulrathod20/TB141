@@ -15,7 +15,9 @@ public void m1() {
 	public void m4(){
 	 System.out.println("This is method m4");
 	}
-	
+	public void m8(){
+	 System.out.println("This is method m8");
+	}
 	
 	public static void main(String[] args) {
 		
