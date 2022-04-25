@@ -1,6 +1,10 @@
 
 public class Demogit3 {
 
+	public void m1O()
+	{
+	System.out.println("m11222222");
+	}
 	
 	public void m1()
 	{
